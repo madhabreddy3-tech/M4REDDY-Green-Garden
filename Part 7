@@ -1,0 +1,54 @@
+# 🌿 M4REDDY Green Garden
+
+Welcome to **M4REDDY Green Garden**, a responsive nursery website created using HTML, CSS, and JavaScript.
+
+## 🌱 Features
+
+- Responsive design
+- Home page
+- Plants page with search
+- About page
+- Contact page
+- WhatsApp button
+- Mobile-friendly layout
+
+## 📂 Project Structure
+
+```
+M4REDDY-Green-Garden/
+│
+├── index.html
+├── plants.html
+├── about.html
+├── contact.html
+├── style.css
+├── script.js
+├── README.md
+└── images/
+```
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 👨‍🌾 Owner
+
+**Madhav Reddy**
+
+**M4REDDY Green Garden**
+
+## 📞 Contact
+
+Phone: +91-XXXXXXXXXX
+
+Email: your@email.com
+
+Location: India
+
+## 📄 License
+
+This project is free to use for educational and personal purposes.
+
+© 2026 M4REDDY Green Garden
