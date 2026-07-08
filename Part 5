@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>About | M4REDDY Green Garden</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+<h2>M4REDDY Green Garden</h2>
+</div>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="plants.html">Plants</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+</header>
+
+<section>
+
+<h2>About M4REDDY Green Garden</h2>
+
+<p>
+
+Welcome to <strong>M4REDDY Green Garden</strong>.
+
+We are passionate about providing healthy, high-quality plants for homes, gardens, offices, schools, and farms. Our goal is to make every place greener and more beautiful.
+
+</p>
+
+<br>
+
+<p>
+
+We offer flowering plants, indoor plants, fruit plants, medicinal plants, ornamental plants, and gardening guidance.
+
+</p>
+
+</section>
+
+<section>
+
+<h2>About the Owner</h2>
+
+<p>
+
+Hello!
+
+My name is <strong>Madhav Reddy</strong>.
+
+I am the founder of <strong>M4REDDY Green Garden</strong>. Gardening is my passion, and I enjoy helping people create beautiful green spaces with healthy plants and expert advice.
+
+</p>
+
+</section>
+
+<section>
+
+<h2>Why Choose Us?</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Healthy Plants</h3>
+<p>Fresh, healthy, and well-maintained nursery plants.</p>
+</div>
+
+<div class="card">
+<h3>Affordable Prices</h3>
+<p>Best quality plants at reasonable prices.</p>
+</div>
+
+<div class="card">
+<h3>Customer Support</h3>
+<p>Friendly guidance for plant care and gardening.</p>
+</div>
+
+<div class="card">
+<h3>Wide Collection</h3>
+<p>Indoor, outdoor, flowering, fruit, and medicinal plants.</p>
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 M4REDDY Green Garden. All Rights Reserved.</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
